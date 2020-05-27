@@ -18,11 +18,6 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-I use multiplayer online battle arena games (MOBAs) as a test-bed to clarify on how humans make decisions under risk in high cognitive load, high pressure, co-operative environments. I am hoping to understand whether games truly reflect human risky behaviour, and if not, the reasons behind this discrepancy. This work could have applications for training in sectors in which managing risk is crucial, such as high-reliability organisations, whose dynamics are mirrored by MOBA games. 
-
-I deviate from more traditional psychological methods and try to understand risk through a data-driven lens, working primarily with large gameplay datasets. My skills lie in methodological design, statistics, and coding for large data analysis. 
-
-My work is underpinned by the principles of robustness, reproducibility, and transparency. I am committed to progress in psychological methods and contributing to bettering psychology as a science.
 
 interests:
 - Multiplayer games
@@ -74,7 +69,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I use multiplayer online battle arena games (MOBAs) as a test-bed to clarify on how humans make decisions under risk in high cognitive load, high pressure, co-operative environments. I am hoping to understand whether games truly reflect human risky behaviour, and if not, the reasons behind this discrepancy. This work could have applications for training in sectors in which managing risk is crucial, such as high-reliability organisations, whose dynamics are mirrored by MOBA games. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I deviate from more traditional psychological methods and try to understand risk through a data-driven lens, working primarily with large gameplay datasets. My skills lie in methodological design, statistics, and coding for large data analysis. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My work is underpinned by the principles of robustness, reproducibility, and transparency. I am committed to progress in psychological methods and contributing to bettering psychology as a science.

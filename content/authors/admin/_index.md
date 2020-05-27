@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Elena Petrovskaya
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,37 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD researcher in Intelligent Games and Game Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of York
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+I use multiplayer online battle arena games (MOBAs) as a test-bed to clarify on how humans make decisions under risk in high cognitive load, high pressure, co-operative environments. I am hoping to understand whether games truly reflect human risky behaviour, and if not, the reasons behind this discrepancy. This work could have applications for training in sectors in which managing risk is crucial, such as high-reliability organisations, whose dynamics are mirrored by MOBA games. 
+
+I deviate from more traditional psychological methods and try to understand risk through a data-driven lens, working primarily with large gameplay datasets. My skills lie in methodological design, statistics, and coding for large data analysis. 
+
+My work is underpinned by the principles of robustness, reproducibility, and transparency. I am committed to progress in psychological methods and contributing to bettering psychology as a science.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Multiplayer games
+- Cognitive psychology
+- Statistical methods 
+- Open Science
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD Intelligent Games and Game Intelligence
+    institution: University of York
+    year: 2019-present
+  - course: MSc Human-Computer Interaction
+    institution: University College London
+    year: 2018-2019
+  - course: BSc Psychology
+    institution: University College London
+    year: 2015-2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
